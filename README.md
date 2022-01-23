@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 23 2022 19:00:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 23 2022 19:01:29 GMT+0800 (China Standard Time) -->
 
 1. [如何看点男子在 5A 景区自给自足隐居 6 年，被劝返原籍居住？隐居期间是怎么生活的？](https://www.zhihu.com/question/512828398)
 1. [如何看待00后职校女生自学低代码月薪破万？低代码是职业新风口吗？](https://www.zhihu.com/question/512701525)
@@ -65,6 +65,7 @@
 1. [有哪些句子温柔到极致？](https://www.zhihu.com/question/506299773)
 1. [2022年春节拜年祝福语文案有什么？](https://www.zhihu.com/question/510696138)
 1. [如何评价《王者荣耀》杨玉环的虎年限定皮肤？](https://www.zhihu.com/question/512748820)
+1. [请问，有什么办法能让一个高中生在早上6点迅速起床吗？](https://www.zhihu.com/question/511933113)
 1. [过年走亲戚拜年，孩子不知道如何称呼奶奶娘家人，怎么给孩子回答中国复杂的亲戚关系称呼？](https://www.zhihu.com/question/511481281)
 1. [刘涛的表演给《开端》减分了吗？](https://www.zhihu.com/question/512634364)
 1. [iPhone 13 出现粉屏，然后自动重启了，这什么问题？](https://www.zhihu.com/question/494418873)
@@ -90,7 +91,6 @@
 1. [如何看待哈尔滨要求全市 24-26 日进行全员核酸检测，未参与者将赋黄码管理？](https://www.zhihu.com/question/512880637)
 1. [晚上盖着被子睡觉，为什么被窝里的温度不会越来越热，而是最终维持适宜的温度？](https://www.zhihu.com/question/512684957)
 1. [你是从什么时候开始入坑摄影的？有哪些值得分享的故事？](https://www.zhihu.com/question/512353648)
-1. [请问，有什么办法能让一个高中生在早上6点迅速起床吗？](https://www.zhihu.com/question/511933113)
 1. [1 月 23 日山东济南新增 2 例本土确诊病例，系北京病例密接者，具体情况如何？](https://www.zhihu.com/question/512935602)
 1. [旅行途中发生过哪些有趣的事情？](https://www.zhihu.com/question/490052273)
 1. [电视剧《开端》里的高压锅阿姨为什么会带着刀上车？](https://www.zhihu.com/question/511623287)
