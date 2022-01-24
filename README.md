@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 25 2022 05:45:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 25 2022 05:46:54 GMT+0800 (China Standard Time) -->
 
 1. [如何看待网红博主「刘庸干净又卫生」在印度确诊新冠？印度目前疫情情况如何？](https://www.zhihu.com/question/512914034)
 1. [近日美国90吨武器装备运抵乌克兰，这一行为释放了哪些信号?](https://www.zhihu.com/question/513129710)
@@ -37,15 +37,15 @@
 1. [一身肌肉会给你带来多大的优越感？](https://www.zhihu.com/question/512608944)
 1. [你们在上海收入多少？](https://www.zhihu.com/question/449802285)
 1. [北京要求购买退热、止咳、抗感染、治疗咽干咽痛四类药品人员需 72 小时内核检，还有哪些注意事项？](https://www.zhihu.com/question/513089020)
-1. [奥密克戎将很快致欧洲六成人口被感染，世卫称「这或意味着欧洲疫情的结束」，如何评价这一观点？](https://www.zhihu.com/question/513088165)
 1. [推荐算法有哪些？](https://www.zhihu.com/question/20326697)
+1. [奥密克戎将很快致欧洲六成人口被感染，世卫称「这或意味着欧洲疫情的结束」，如何评价这一观点？](https://www.zhihu.com/question/513088165)
 1. [为什么快递不能送货上门呢？6 块钱的快递费，配送员能拿到多少？](https://www.zhihu.com/question/512716067)
 1. [山东 00 后大学生长期遭受父亲家暴，再次遭到训斥时反杀父亲，被判无期徒刑，如何从法律角度评判该事件？](https://www.zhihu.com/question/512986290)
 1. [如何评价富士摄影大赛获奖作品?](https://www.zhihu.com/question/512347012)
 1. [为什么很多国家的地铁没有屏蔽门，地铁站台屏蔽门的安装改造非常困难吗？](https://www.zhihu.com/question/512255299)
 1. [如何看待龙湖地产不发年终奖并大肆裁员，并低额辞退补偿？员工如何应对此次裁员？](https://www.zhihu.com/question/512200421)
-1. [男朋友全款买不了房，父母不同意结婚，我该怎么办？](https://www.zhihu.com/question/512908153)
 1. [如何看待网传美团王兴怼宝马 X5 研发技术和特斯拉比差距大？代码行多少能代表研发水平高低吗？](https://www.zhihu.com/question/512716032)
+1. [男朋友全款买不了房，父母不同意结婚，我该怎么办？](https://www.zhihu.com/question/512908153)
 1. [一个文章中95%的数据分析都是我做的，博导文章给我二作，这样的博导值得追随吗？](https://www.zhihu.com/question/512388486)
 1. [美国务院已下令撤离驻乌克兰大使馆人员家属，有哪些信息值得关注？](https://www.zhihu.com/question/512940659)
 1. [身家曾达数千万董事长因破产流浪深圳街头靠拾荒为生，发生了什么？](https://www.zhihu.com/question/511758591)
@@ -55,8 +55,8 @@
 1. [为什么现在交通那么方便，还是有很多人选择开车回家过年？](https://www.zhihu.com/question/511928911)
 1. [教资不知道哪里是重点怎么办？](https://www.zhihu.com/question/406475615)
 1. [有没有什么不贵，但是买了很有新年感觉的东西？](https://www.zhihu.com/question/441230460)
-1. [从进化论的角度看，人为什么会善良？难道不是越自私越利于生存吗，为什么善良的基因能一直传承到现在？](https://www.zhihu.com/question/512498524)
 1. [难道被爱的前提是需要漂亮吗？](https://www.zhihu.com/question/512792000)
+1. [从进化论的角度看，人为什么会善良？难道不是越自私越利于生存吗，为什么善良的基因能一直传承到现在？](https://www.zhihu.com/question/512498524)
 1. [雷克萨斯的保养真的是免费的吗？](https://www.zhihu.com/question/38497740)
 1. [为什么人类不用比甘蔗或甜菜更甜的水果提炼糖?](https://www.zhihu.com/question/510390794)
 1. [为什么会觉得游戏《巫师 3：狂猎》剧情套娃？](https://www.zhihu.com/question/504100909)
