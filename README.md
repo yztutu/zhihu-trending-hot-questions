@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 24 2022 23:47:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 24 2022 23:48:35 GMT+0800 (China Standard Time) -->
 
 1. [如何看待网红博主「刘庸干净又卫生」在印度确诊新冠？印度目前疫情情况如何？](https://www.zhihu.com/question/512914034)
 1. [河南一高中生放假回家遇防疫卡点被拦截，母女俩大雪中冻一夜，给防疫工作带来哪些警示？](https://www.zhihu.com/question/513064868)
