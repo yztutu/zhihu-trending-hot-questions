@@ -263,7 +263,10 @@
     "url": "https://www.zhihu.com/question/535195395",
     "title": "美国田纳西州发生一起大规模枪击事件，至少 6 人受伤，目前当地情况如何？"
   },
-  { "url": "https://www.zhihu.com/question/532701261", "title": "勇士本赛季能夺冠吗？" },
+  {
+    "url": "https://www.zhihu.com/question/532701261",
+    "title": "勇士本赛季能夺冠吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/535157813",
     "title": "曼联官宣朗尼克离任，不再出任球队顾问，如何评价他在曼联的执教时光？"
@@ -316,7 +319,10 @@
     "url": "https://www.zhihu.com/question/535228922",
     "title": "如何看待《原神》夜兰角色演示「晦雨幽客行」？"
   },
-  { "url": "https://www.zhihu.com/question/532578620", "title": "夏天冻哪种水果最好吃？" },
+  {
+    "url": "https://www.zhihu.com/question/532578620",
+    "title": "夏天冻哪种水果最好吃？"
+  },
   {
     "url": "https://www.zhihu.com/question/533440690",
     "title": "男生会在「618」主动购买哪些商品？"
@@ -481,9 +487,18 @@
     "url": "https://www.zhihu.com/question/534367488",
     "title": "原神抽卡自闭了，现在该怎么办?"
   },
-  { "url": "https://www.zhihu.com/question/316480904", "title": "什么样的人是狠人？" },
-  { "url": "https://www.zhihu.com/question/485353071", "title": "做美工真的死路一条吗？" },
-  { "url": "https://www.zhihu.com/question/307196177", "title": "川菜系里有甜的菜吗？" },
+  {
+    "url": "https://www.zhihu.com/question/316480904",
+    "title": "什么样的人是狠人？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/485353071",
+    "title": "做美工真的死路一条吗？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/307196177",
+    "title": "川菜系里有甜的菜吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/54120744",
     "title": "蟒蛇为何都是无毒蛇？最初存在的有毒蟒蛇是如何被自然淘汰的？"
@@ -636,7 +651,10 @@
     "url": "https://www.zhihu.com/question/535140110",
     "title": "2022 F1 摩纳哥大奖赛，佩雷兹夺冠，红牛一三带回，法拉利二四带回，周冠宇十六，如何评价这场比赛？"
   },
-  { "url": "https://www.zhihu.com/question/524961950", "title": "该不该在游戏里充钱?" },
+  {
+    "url": "https://www.zhihu.com/question/524961950",
+    "title": "该不该在游戏里充钱?"
+  },
   {
     "url": "https://www.zhihu.com/question/457246703",
     "title": "如果给你一次重新填志愿的机会，你会选择专业优先还是学校优先？"
@@ -653,7 +671,10 @@
     "url": "https://www.zhihu.com/question/535116240",
     "title": "5 月 29 日 0 至 15 时北京新增新冠肺炎感染者 7 例，无社会面新增，目前疫情情况如何？"
   },
-  { "url": "https://www.zhihu.com/question/535000345", "title": "我们读书的意义在哪？" },
+  {
+    "url": "https://www.zhihu.com/question/535000345",
+    "title": "我们读书的意义在哪？"
+  },
   {
     "url": "https://www.zhihu.com/question/534320900",
     "title": "你认为摄影爱好者从幼稚到成熟的过程是什么？"
@@ -678,7 +699,10 @@
     "url": "https://www.zhihu.com/question/534598587",
     "title": "成为程序员后你都明白了什么?"
   },
-  { "url": "https://www.zhihu.com/question/534224771", "title": "生活太迷茫了，怎么办？" },
+  {
+    "url": "https://www.zhihu.com/question/534224771",
+    "title": "生活太迷茫了，怎么办？"
+  },
   {
     "url": "https://www.zhihu.com/question/531429617",
     "title": "如何评价2022ciscn国赛?"
@@ -791,5 +815,8 @@
     "url": "https://www.zhihu.com/question/534162425",
     "title": "如果你有死亡笔记，如何在最短的时间内合法变现？"
   },
-  { "url": "https://www.zhihu.com/question/488149966", "title": "短篇如何写出张力？" }
+  {
+    "url": "https://www.zhihu.com/question/488149966",
+    "title": "短篇如何写出张力？"
+  }
 ]

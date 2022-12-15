@@ -75,7 +75,10 @@
     "url": "https://www.zhihu.com/question/565604600",
     "title": "11 月 8 日，中科院院士、著名化学家唐有祺先生逝世，享年 103 岁，他有哪些贡献值得铭记？"
   },
-  { "url": "https://www.zhihu.com/question/550405596", "title": "家长没车真的很丢人吗?" },
+  {
+    "url": "https://www.zhihu.com/question/550405596",
+    "title": "家长没车真的很丢人吗?"
+  },
   {
     "url": "https://www.zhihu.com/question/506203870",
     "title": "兔子的繁殖能力惊人，能否靠养殖兔子渡过饥荒?或将兔子作为战略物资在饥荒时发放喂养作为稳定肉食来源?"
@@ -376,7 +379,10 @@
     "url": "https://www.zhihu.com/question/435036403",
     "title": "怎么改变自己颓废的人生？"
   },
-  { "url": "https://www.zhihu.com/question/375259682", "title": "你们会在网上买家具吗？" },
+  {
+    "url": "https://www.zhihu.com/question/375259682",
+    "title": "你们会在网上买家具吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/406686881",
     "title": "有哪些好玩到爆的小网站？"
@@ -413,7 +419,10 @@
     "url": "https://www.zhihu.com/question/452214204",
     "title": "现阶段，如果让你全权接手DOTA2，你会用什么办法复兴这款游戏？"
   },
-  { "url": "https://www.zhihu.com/question/350687673", "title": "隔代亲能亲到什么程度？" },
+  {
+    "url": "https://www.zhihu.com/question/350687673",
+    "title": "隔代亲能亲到什么程度？"
+  },
   {
     "url": "https://www.zhihu.com/question/491637199",
     "title": "为什么非洲是土地肥沃，物产丰富的第一大洲，却经常闹饥荒呢？"
@@ -502,7 +511,10 @@
     "url": "https://www.zhihu.com/question/33573060",
     "title": "安检人员曾检查出哪些可怕/奇怪的物品？"
   },
-  { "url": "https://www.zhihu.com/question/303323298", "title": "人性的弱点有什么作用？" },
+  {
+    "url": "https://www.zhihu.com/question/303323298",
+    "title": "人性的弱点有什么作用？"
+  },
   {
     "url": "https://www.zhihu.com/question/513182850",
     "title": "有没有突然暗暗悟到的一个道理？"
@@ -563,7 +575,10 @@
     "url": "https://www.zhihu.com/question/565371469",
     "title": "想看书了，本人21，有哪些好书推荐吗？"
   },
-  { "url": "https://www.zhihu.com/question/22394536", "title": "做小生意真的比打工强吗？" },
+  {
+    "url": "https://www.zhihu.com/question/22394536",
+    "title": "做小生意真的比打工强吗？"
+  },
   {
     "url": "https://www.zhihu.com/question/24460717",
     "title": "怎样才能写出高质量的SQL语句？"
@@ -580,7 +595,10 @@
     "url": "https://www.zhihu.com/question/438708854",
     "title": "你读过最冷门，但「含金量极高」的书是什么？"
   },
-  { "url": "https://www.zhihu.com/question/455593731", "title": "如何看透对方的心理？" },
+  {
+    "url": "https://www.zhihu.com/question/455593731",
+    "title": "如何看透对方的心理？"
+  },
   {
     "url": "https://www.zhihu.com/question/565413586",
     "title": "游戏《战神：诸神黄昏》已解锁，游戏体验如何，你会怎么评价这部作品？"
@@ -625,7 +643,10 @@
     "url": "https://www.zhihu.com/question/442368205",
     "title": "用 React 写函数组件，如何避免重复渲染？"
   },
-  { "url": "https://www.zhihu.com/question/27493229", "title": "怎样成为一个高情商的人？" },
+  {
+    "url": "https://www.zhihu.com/question/27493229",
+    "title": "怎样成为一个高情商的人？"
+  },
   {
     "url": "https://www.zhihu.com/question/453888306",
     "title": "《海贼王》如何结尾会伤害到所有读者？"
@@ -638,7 +659,10 @@
     "url": "https://www.zhihu.com/question/475784933",
     "title": "考研进 985 和高考进 985 有什么区别？"
   },
-  { "url": "https://www.zhihu.com/question/313008254", "title": "如何训练申论？" },
+  {
+    "url": "https://www.zhihu.com/question/313008254",
+    "title": "如何训练申论？"
+  },
   {
     "url": "https://www.zhihu.com/question/319949752",
     "title": "申论怎样做到 80 分以上?"
@@ -647,8 +671,14 @@
     "url": "https://www.zhihu.com/question/514307216",
     "title": "为什么农历误差如此之大，能闰一个月？"
   },
-  { "url": "https://www.zhihu.com/question/306246343", "title": "结婚的意义到底是什么?" },
-  { "url": "https://www.zhihu.com/question/21671881", "title": "如何拥有旺盛精力？" },
+  {
+    "url": "https://www.zhihu.com/question/306246343",
+    "title": "结婚的意义到底是什么?"
+  },
+  {
+    "url": "https://www.zhihu.com/question/21671881",
+    "title": "如何拥有旺盛精力？"
+  },
   {
     "url": "https://www.zhihu.com/question/565422404",
     "title": "美国中期选举投票开始，各州选情如何？未来谁将掌控参、众议院？"
@@ -709,7 +739,10 @@
     "url": "https://www.zhihu.com/question/565341169",
     "title": "手机厂商集体大降价，上半年折叠屏手机出货量暴增近 70%，为何折叠屏手机会逆势增长？"
   },
-  { "url": "https://www.zhihu.com/question/27563744", "title": "公理和定理的区别是什么？" },
+  {
+    "url": "https://www.zhihu.com/question/27563744",
+    "title": "公理和定理的区别是什么？"
+  },
   {
     "url": "https://www.zhihu.com/question/565369040",
     "title": "乌鲁木齐辟谣「网传会展中心方舱有卖淫嫖娼」，有哪些信息值得关注？造谣者将承担哪些法律责任？"
@@ -766,13 +799,22 @@
     "url": "https://www.zhihu.com/question/560882024",
     "title": "新手骑平把公路无论距离长短，均速只能 20，怎么才能提升？"
   },
-  { "url": "https://www.zhihu.com/question/555510030", "title": "你会怀念高中时光吗？" },
-  { "url": "https://www.zhihu.com/question/31556159", "title": "如何系统地练习写作？" },
+  {
+    "url": "https://www.zhihu.com/question/555510030",
+    "title": "你会怀念高中时光吗？"
+  },
+  {
+    "url": "https://www.zhihu.com/question/31556159",
+    "title": "如何系统地练习写作？"
+  },
   {
     "url": "https://www.zhihu.com/question/559883996",
     "title": "有哪些你看过很多遍的电视剧？"
   },
-  { "url": "https://www.zhihu.com/question/531562897", "title": "一个强者的潜质是什么？" },
+  {
+    "url": "https://www.zhihu.com/question/531562897",
+    "title": "一个强者的潜质是什么？"
+  },
   {
     "url": "https://www.zhihu.com/question/560265347",
     "title": "孩子学习重要还是身体健康重要？"
